@@ -1,0 +1,5 @@
+model,cv_recall,cv_std,cv_f1,test_recall,test_f1,found,missed,false_alarms,clears_target
+SVC - tuned,0.766,0.038,0.556,0.673,0.507,37,18,54,False
+RF - tuned,0.739,0.041,0.541,0.745,0.536,41,14,57,True
+SVC - week 6,0.721,0.046,0.559,0.618,0.5,34,21,47,False
+RF - week 6,0.652,0.051,0.521,0.655,0.545,36,19,41,False
